@@ -1,0 +1,37 @@
+/*Common shared styles*/
+body {
+    font-family: 'Lato', sans-serif;
+}
+.banner-title {
+    color: #272727;
+}
+.btn-primary {
+    border-radius: 5px;
+    background: #FD6E0A;
+    color: white;
+    height: 44px;
+    width: 120px;
+}
+.header {
+   background-color: #ddbcb2;
+   margin-right: 50px;
+      }
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 850px;
+    width: 1902px;
+    margin-left: 100px;
+    margin-left: 100px;
+}
+
+.banner-description {
+    height: 90px;
+    width: 634px;
+}
+
+.banner .banner-pic {
+    height: 800px;
+    width: 634px;
+}
